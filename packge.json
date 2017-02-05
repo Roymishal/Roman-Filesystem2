@@ -1,0 +1,23 @@
+{
+    "name": "filesystemproject2",
+    "version": "1.0.0",
+    "description": "",
+    "main": "app7.js",
+    "scripts": {
+        "start": "node app7.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/marcooren/filesystemproject2.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/marcooren/filesystemproject2/issues"
+    },
+    "homepage": "https://github.com/marcooren/filesystemproject2#readme",
+    "dependencies": {
+        "readline-sync": "^1.4.5"
+    }
+}
